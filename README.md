@@ -1,4 +1,4 @@
-                                                  CURRICULUM VITAE
+                                          CURRICULUM VITAE
 https://github.com/pradeep-shakya/pradeep/blob/main/profile.jpg
 PRADEEP KUMAR  
 
@@ -11,10 +11,10 @@ Mob No: . +919935847111
 E-mail: gpfpradeep.shakya@gmail.com
 
 
-                                                   Objective:
+                                            Objective:
 To work with a growth oriented organization where my skills and potential could be effectively and progressively utilized and thereby contributing to the success and growth of the organization.
 
-                                                   Work Experience:
+                                            Work Experience:
 
    Organization Name : Indian Institute Of Technology Kanpur
    
@@ -49,7 +49,7 @@ To work with a growth oriented organization where my skills and potential could 
   
   Client/Location :Lucknow
   
-                                                Current Profile’s Roles and Responsibilities
+                                       Current Profile’s Roles and Responsibilities
 
 ➢ Providing Technical Support or assistance to end users regarding for all IT services, Active directory, VPN, . Office365, file share,access, security access functions.
 
