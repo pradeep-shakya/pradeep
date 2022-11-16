@@ -49,7 +49,7 @@ To work with a growth oriented organization where my skills and potential could 
   
   Client/Location :Lucknow
   
-                                       Current Profile’s Roles and Responsibilities
+                                    Current Profile’s Roles and Responsibilities
 
 ➢ Providing Technical Support or assistance to end users regarding for all IT services, Active directory, VPN, . Office365, file share,access, security access functions.
 
