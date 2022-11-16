@@ -1,11 +1,11 @@
                                           CURRICULUM VITAE
-https://github.com/pradeep-shakya/pradeep/blob/main/profile.jpg
-PRADEEP KUMAR  
-
+PRADEEP KUMAR        
 H.NO-206D Chandel Gate
 
 IIT Kanpur.
+
 Distt-Kanpur U.P. 208016
+
 Mob No: . +919935847111
 
 E-mail: gpfpradeep.shakya@gmail.com
